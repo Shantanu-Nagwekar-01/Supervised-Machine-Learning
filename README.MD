@@ -17,6 +17,9 @@ Each project includes:
 - [Student Score Predictor](./Linear_Regression/Student_Score_Predictor/README.md)  
   Predict a student's exam score based on study hours using simple linear regression.
 
+- [California Housing Predictor](./Linear_Regression/California_Housing_Price_Predictor/README.md)  
+  Predict California housing prices using multiple linear regression.
+
 ---
 
 ## 🛠 Tools & Libraries
