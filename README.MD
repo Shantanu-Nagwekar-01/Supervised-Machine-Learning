@@ -23,6 +23,10 @@ Each project includes:
 - [Framingham Heart Disease Prediction](./Logistic_Regression/Framingham_Heart_Disease_Prediction/README.md)  
   Predict the 10-year risk of coronary heart disease using health and lifestyle features.
 
+### 🔹 Decision Tree & Ensemble Methods
+- [Bank Marketing Client Subscription Prediction](./Decision_Tree/README.md)  
+  Predict whether a bank client will subscribe to a term deposit using **Decision Tree**, **Random Forest**, **XGBoost**, and **AdaBoost** classifiers.
+
 ---
 
 ## 🛠 Tools & Libraries
@@ -33,6 +37,7 @@ Each project includes:
 - matplotlib & seaborn
 - scikit-learn
 - NumPy
+- XGBoost
 
 ---
 
@@ -42,20 +47,3 @@ Install the required dependencies using:
 
 ```bash
 pip install -r requirements.txt
-
----
-
-## 🚀 Upcoming Projects
-
-- 🌳 **Decision Trees**
-- 🌲 **Random Forests**
-- 📍 **k-Nearest Neighbors (k-NN)**
-- 🛰 **Model Deployment with Flask/FastAPI**
-
----
-
-## ✍️ Author
-
-**Shantanu Nagwekar**
-
-> Feel free to fork, explore, raise issues, or suggest improvements!
