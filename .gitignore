@@ -11,11 +11,6 @@ venv/
 ENV/
 *.env
 
-# Data files
-*.csv
-*.tsv
-*.xlsx
-
 # Model files
 *.pkl
 *.joblib
